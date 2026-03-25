@@ -51,19 +51,19 @@ Psychic and Dragon types are massively over-represented among Legendaries, while
 ## Visualizations
 
 ### Average Base Stats by Generation
-![Average Stats by Generation](avg_stats_by_gen.png)
+![Average Stats by Generation](visuals/avg_stats_by_gen.png)
 *Regular Pokémon trend upward while Legendary and Mythical stats remain volatile. Note the Gen 7 dip for both categories.*
 
 ### Base Stat Distribution per Generation
-![Base Stat Distribution](base_stat_distribution.png)
+![Base Stat Distribution](visuals/base_stat_distribution.png)
 *Box plots reveal the full spread per generation. Gen 9 shows a clear upward shift in both median and upper range.*
 
 ### Type Appearances by Generation
-![Type Appearances by Generation](type_appearances_by_gen.png)
+![Type Appearances by Generation](visuals/type_appearances_by_gen.png)
 *Counts both Type 1 and Type 2 (values exceed 100% as dual-type Pokémon contribute to two type counts). Early gens show dominant type clusters that become more evenly distributed over time.*
 
 ### Expected vs Actual Legendary Typing
-![Expected vs Actual Legendary Typing](expected_vs_actual_legendary_typing.png)
+![Expected vs Actual Legendary Typing](visuals/expected_vs_actual_legendary_typing.png)
 *Diverging bar chart showing which types appear more (green) or less (red) among Legendaries than random chance would predict.*
 
 ---
