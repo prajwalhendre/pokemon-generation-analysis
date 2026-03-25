@@ -1,12 +1,12 @@
 # Pokémon Design Evolution: A Generational Data Analysis
 
-An end-to-end data pipeline exploring how Pokémon design has evolved across 9 generations — analyzing base stats, type distribution, and legendary design philosophy using Python, SQL, and statistical testing.
+An end-to-end data pipeline exploring how Pokémon design has evolved across 9 generations analyzing base stats, type distribution, and legendary design philosophy using Python, SQL, and statistical testing.
 
 ---
 
 ## Research Question
 
-**"How has Pokémon design evolved across generations — and what do shifts in base stats, type distribution, and special status reveal about the franchise's design philosophy over time?"**
+**"How has Pokémon design evolved across generations and what do shifts in base stats, type distribution, and special status reveal about the franchise's design philosophy over time?"**
 
 ---
 
